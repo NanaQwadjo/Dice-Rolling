@@ -25,7 +25,7 @@ int main()
 
     }
 
-
+  // randomly choose a number
     die1 = rand() % side + 1;
     die2 = rand() % side + 1;
 
